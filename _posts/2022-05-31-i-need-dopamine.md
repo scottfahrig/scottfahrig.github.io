@@ -13,9 +13,9 @@ Here’s a list of the top 10 things I want to buy to initiate a dopamine respon
 
 <!--more-->
 
-- ✅ A bluetooth controller to play games on my Mac
-- ✅ A USB mic to record audio in hotels
-- ⬜️ A new pair of shoes
+1. ✅ A bluetooth controller to play games on my Mac
+2. ✅ A USB mic to record audio in hotels
+3. ⬜️ A new pair of shoes
 - ⬜️ A drone (I already have one a̶n̸d̷ ̸I̴ ̵̫̓d̸̦̐o̶̭͌ṅ̸͙’̴͎̏t̶̗̄ ̵͕̓ų̴̛s̷̞̿ẹ̷̿ ̵͈̏i̷̡͌t̵̨̍)
 - ⬜️ Personal Hotspot
 - ⬜️ A cheap gaming laptop
