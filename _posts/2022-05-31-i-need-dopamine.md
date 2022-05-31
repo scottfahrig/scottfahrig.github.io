@@ -9,7 +9,7 @@ tags: projects list glitchless
 
 Hey what’s up gamers
 
-Here’s a list of the top 10 things I want to buy to initiate a dopamine response, thus exchanging my financial well-being for mental-wellbeing:
+Here’s a list of the top 10 things I want to buy to initiate a dopamine response, thus exchanging my financial well-being for my mental well-being:
 - [x] A bluetooth controller to play games on my Mac
 - [x] A USB mic to record audio in hotels
 - [ ] A new pair of shoes
