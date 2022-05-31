@@ -14,7 +14,7 @@ Here’s a list of the top 10 things I want to buy to initiate a dopamine respon
 - [x] A USB mic to record audio in hotels
 - [ ] A new pair of shoes
 <!--more-->
-- [ ] A drone (I already have one and I don’t use it)
+- [ ] A drone (I already have one a̶n̸d̷ ̸I̴ ̵̫̓d̸̦̐o̶̭͌ṅ̸͙’̴͎̏t̶̗̄ ̵͕̓ų̴̛s̷̞̿ẹ̷̿ ̵͈̏i̷̡͌t̵̨̍)
 - [ ] Personal Hotspot
 - [ ] A cheap gaming laptop
 - [ ] A streamdeck!!!
