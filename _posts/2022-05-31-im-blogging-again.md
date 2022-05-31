@@ -1,6 +1,6 @@
 ---
 title: I'm Blogging Again?
-tags: blog, projects, archiving
+tags: blog projects archiving
 # article_header:
 #   type: cover
 #   image:
@@ -15,4 +15,4 @@ Because things were better in the 90's and early 00's. And because my memory is 
 
 ---
 
-More to come.
+So far, this is fun. Before too long, it may not be, I don't know. More to come.
