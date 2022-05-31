@@ -7,7 +7,7 @@ tags: projects list glitchless
 #     src: /screenshot.jpg
 ---
 
-Hey what’s up gamers
+Hey what’s up ga̵̪͘mers
 
 Here’s a list of the top 10 things I want to buy to initiate a dopamine response, thus exchanging my financial well-being for my mental well-being:
 - [x] A bluetooth controller to play games on my Mac
