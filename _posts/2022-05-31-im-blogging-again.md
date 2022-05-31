@@ -1,6 +1,6 @@
 ---
 title: I'm Blogging Again?
-tags: blog,projects,archiving
+tags: blog, projects, archiving
 # article_header:
 #   type: cover
 #   image:
