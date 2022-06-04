@@ -1,6 +1,6 @@
 ---
 title: The Best Way I Know To Describe Infinity
-tags: blog projects archiving philosophy
+tags: blog philosophy thinking
 # article_header:
 #   type: cover
 #   image:
