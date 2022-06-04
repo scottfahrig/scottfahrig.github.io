@@ -9,6 +9,8 @@ tags: blog projects archiving philosophy
 
 This is the easiest and most accurate way I can think of to describe infinity:
 
+<!--more-->
+
 ### Everything Is Alive
 
 At a big enough physical scale or time scale, every thing must be either alive or a part of a larger organism. For instance: our galaxy could be a blood cell in a universe, and that universe could be the brain of another organism, who could exist outside our universe in a larger gigaverse, which itself could be contained within the iris in the eyeball of some being in a higher dimension who could look like us, or really, in theory look EXACTLY like us. 
